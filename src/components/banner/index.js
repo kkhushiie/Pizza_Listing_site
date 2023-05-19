@@ -15,7 +15,7 @@ export default function Banner() {
 
   return (
     <BannerContainer >
-      <BannerImage src="/images/banner/banner.png" />
+      <BannerImage src="https://www.pngarts.com/files/3/Pizza-PNG-Photo.png" />
       <BannerContent>
         <Typography variant="h6">Best Collection</Typography>
         <BannerTitle variant="h2">
